@@ -19,4 +19,30 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="controls.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gametimer.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="render.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="variables.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="vectors.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="blocks.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bomb.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="chat_message.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
